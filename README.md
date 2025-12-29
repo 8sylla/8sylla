@@ -1,6 +1,6 @@
 ## Hey, <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px" alt="hi">, I’m SYLLA
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F7DD&center=true&vCenter=true&width=435&lines=Software+Engineer;Data+%26+AI+Enthusiast;Java+%7C+C%23+%7C+Python+%7C+PHP;Architecting+Scalable+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F7DD&center=true&vCenter=true&width=435&lines=Software+Engineer;Data+%26+AI+Enthusiast;Java+%7C+C%23+%7C+Python+%7C+SQL;Architecting+Scalable+Solutions" alt="Typing SVG" />
 
 ### ☕ About Me
 
@@ -15,6 +15,7 @@
 ```
 
 ### Tech Stack & Arsenal
+---
 #### Core Engineering & Web Development
 *Backend, Frontend, and Frameworks*
 
@@ -24,7 +25,7 @@
   </a>
 </div>
 
-<br/>
+---
 
 
 
@@ -37,7 +38,7 @@
   </a>
 </div>
 
-<br/>
+---
 
 #### 🔧 Specialized Data Tools
 *Specific tools for ETL, Big Data & AI*
@@ -50,6 +51,9 @@
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </div>
 
+---
+
+### Connect with me :)
 
 🔗 [Website](https://8sylla.netlify.app) • [LinkedIn](https://www.linkedin.com/in/8sylla) • [Instagram](https://www.instagram.com/8sylla)
 
